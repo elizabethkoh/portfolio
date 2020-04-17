@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>PHP Test</title>
-  </head>
+  </head> 
   <body>
     <?php echo '<p>Hello World! Here are all of my Links [Elizabeth Koh 2nd Period]</p>'; ?> 
     <ul>
